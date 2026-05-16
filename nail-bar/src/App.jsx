@@ -1,5 +1,5 @@
 import "../assets/css/styles.css";
-
+import "../assets/font/themify-icons/themify-icons.css";
 
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
           <li>
             <a href="/">
               Services
-              <span className="ti-angle-down" ></span>
+               <i className="ti-angle-down nav-icon"></i>
             </a>
 
   
